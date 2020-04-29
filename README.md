@@ -3,3 +3,5 @@ This repository is used to deploy a full-stack application on Heroku that helps 
 
 The app is deployed on Heroku at:
 https://grassroot-esg-investing.herokuapp.com/
+
+The mapbox key belongs to GS
